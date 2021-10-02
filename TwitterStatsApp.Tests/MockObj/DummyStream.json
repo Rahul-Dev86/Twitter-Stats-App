@@ -1,0 +1,264 @@
+{
+    "data": {
+        "attachments": {
+            "media_keys": [
+                "3_1442562503016271874",
+                "3_1442562502886309889"
+            ]
+        },
+        "author_id": "978644588993789953",
+        "context_annotations": [
+            {
+                "domain": {
+                    "id": "30",
+                    "name": "Entities [Entity Service]",
+                    "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                },
+                "entity": {
+                    "id": "847868745150119936",
+                    "name": "Home & family",
+                    "description": "Hobbies and interests"
+                }
+            },
+            {
+                "domain": {
+                    "id": "66",
+                    "name": "Interests and Hobbies Category",
+                    "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                },
+                "entity": {
+                    "id": "1046577790353428480",
+                    "name": "Visual arts",
+                    "description": "Visual Arts"
+                }
+            },
+            {
+                "domain": {
+                    "id": "67",
+                    "name": "Interests and Hobbies",
+                    "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                },
+                "entity": {
+                    "id": "847869659957182464",
+                    "name": "Painting",
+                    "description": "Painting"
+                }
+            }
+        ],
+        "conversation_id": "1442669037389897728",
+        "created_at": "2021-09-28T01:54:36.000Z",
+        "entities": {
+            "mentions": [
+                {
+                    "start": 3,
+                    "end": 14,
+                    "username": "catgraffam",
+                    "id": "4076297296"
+                }
+            ],
+            "urls": [
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/4JqqC9yGks",
+                    "expanded_url": "https://twitter.com/catgraffam/status/1442562539057922054/photo/1",
+                    "display_url": "pic.twitter.com/4JqqC9yGks"
+                },
+                {
+                    "start": 70,
+                    "end": 93,
+                    "url": "https://t.co/4JqqC9yGks",
+                    "expanded_url": "https://twitter.com/catgraffam/status/1442562539057922054/photo/1",
+                    "display_url": "pic.twitter.com/4JqqC9yGks"
+                }
+            ]
+        },
+        "geo": {
+
+        },
+        "id": "1442669037389897728",
+        "lang": "fr",
+        "possibly_sensitive": false,
+        "public_metrics": {
+            "retweet_count": 386,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0
+        },
+        "referenced_tweets": [
+            {
+                "type": "retweeted",
+                "id": "1442562539057922054"
+            }
+        ],
+        "source": "Twitter for iPhone",
+        "text": "RT @catgraffam: object permanence n.4 - polaroid &amp; acryla gouache https://t.co/4JqqC9yGks"
+    },
+    "includes": {
+        "media": [
+            {
+                "height": 1579,
+                "media_key": "3_1442562503016271874",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FAUC9BaVUAIKRYR.jpg",
+                "width": 1308
+            },
+            {
+                "height": 1208,
+                "media_key": "3_1442562502886309889",
+                "type": "photo",
+                "url": "https://pbs.twimg.com/media/FAUC9A7WQAEKXGu.jpg",
+                "width": 1000
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2018-03-27T14:47:07.000Z",
+                "description": "",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/1YLo43f50w",
+                                "expanded_url": "https://www.instagram.com/baoshan__",
+                                "display_url": "instagram.com/baoshan__"
+                            }
+                        ]
+                    }
+                },
+                "id": "978644588993789953",
+                "location": "hong kong",
+                "name": "$hana",
+                "pinned_tweet_id": "1348650234025443333",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1426331041195778048/peyweXJi_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 126,
+                    "following_count": 271,
+                    "tweet_count": 1716,
+                    "listed_count": 2
+                },
+                "url": "https://t.co/1YLo43f50w",
+                "username": "baekoshan",
+                "verified": false
+            },
+            {
+                "created_at": "2015-10-30T16:02:28.000Z",
+                "description": "i always land on my feet & throw up on the rug // painter, teacher, video maker // commissions closed (will reopen in november, 2021)",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "start": 0,
+                                "end": 23,
+                                "url": "https://t.co/SnojWs8rhU",
+                                "expanded_url": "http://linktr.ee/catgraffam",
+                                "display_url": "linktr.ee/catgraffam"
+                            }
+                        ]
+                    }
+                },
+                "id": "4076297296",
+                "location": "Portland, ME",
+                "name": "Cat Graffam",
+                "pinned_tweet_id": "1363616704455204869",
+                "profile_image_url": "https://pbs.twimg.com/profile_images/1420002545314013186/ZxuwZGcs_normal.jpg",
+                "protected": false,
+                "public_metrics": {
+                    "followers_count": 37510,
+                    "following_count": 970,
+                    "tweet_count": 19659,
+                    "listed_count": 254
+                },
+                "url": "https://t.co/SnojWs8rhU",
+                "username": "catgraffam",
+                "verified": true
+            }
+        ],
+        "tweets": [
+            {
+                "attachments": {
+                    "media_keys": [
+                        "3_1442562503016271874",
+                        "3_1442562502886309889"
+                    ]
+                },
+                "author_id": "4076297296",
+                "context_annotations": [
+                    {
+                        "domain": {
+                            "id": "30",
+                            "name": "Entities [Entity Service]",
+                            "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain"
+                        },
+                        "entity": {
+                            "id": "847868745150119936",
+                            "name": "Home & family",
+                            "description": "Hobbies and interests"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "66",
+                            "name": "Interests and Hobbies Category",
+                            "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations"
+                        },
+                        "entity": {
+                            "id": "1046577790353428480",
+                            "name": "Visual arts",
+                            "description": "Visual Arts"
+                        }
+                    },
+                    {
+                        "domain": {
+                            "id": "67",
+                            "name": "Interests and Hobbies",
+                            "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks"
+                        },
+                        "entity": {
+                            "id": "847869659957182464",
+                            "name": "Painting",
+                            "description": "Painting"
+                        }
+                    }
+                ],
+                "conversation_id": "1442562539057922054",
+                "created_at": "2021-09-27T18:51:25.000Z",
+                "entities": {
+                    "urls": [
+                        {
+                            "start": 54,
+                            "end": 77,
+                            "url": "https://t.co/4JqqC9yGks",
+                            "expanded_url": "https://twitter.com/catgraffam/status/1442562539057922054/photo/1",
+                            "display_url": "pic.twitter.com/4JqqC9yGks"
+                        },
+                        {
+                            "start": 54,
+                            "end": 77,
+                            "url": "https://t.co/4JqqC9yGks",
+                            "expanded_url": "https://twitter.com/catgraffam/status/1442562539057922054/photo/1",
+                            "display_url": "pic.twitter.com/4JqqC9yGks"
+                        }
+                    ]
+                },
+                "geo": {
+
+                },
+                "id": "1442562539057922054",
+                "lang": "fr",
+                "possibly_sensitive": false,
+                "public_metrics": {
+                    "retweet_count": 386,
+                    "reply_count": 22,
+                    "like_count": 3259,
+                    "quote_count": 4
+                },
+                "source": "Twitter Web App",
+                "text": "object permanence n.4 - polaroid &amp; acryla gouache https://t.co/4JqqC9yGks"
+            }
+        ]
+    }
+}
